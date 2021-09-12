@@ -1,4 +1,4 @@
-#Catetos e Hipotenusa
+# Catetos e Hipotenusa
 from math import hypot
 co = float(input('Comprimento do cateto oposto em cm: '))
 ca = float(input('Comprimento do cateto adjacente em cm: '))
